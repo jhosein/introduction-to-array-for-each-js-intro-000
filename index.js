@@ -11,6 +11,5 @@ array[index] = Math.floor(Math.random() * 100 + 2).toString() + ` ${array[index]
 
 var animals = ["dog", "cat" "squirrel"];
 
-doToElementsInArray(animals, changeCompleteley){
+doToElementsInArray(animals, changeCompleteley);
   console.log(animals);
-}
